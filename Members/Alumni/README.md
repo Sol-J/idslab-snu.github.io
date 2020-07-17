@@ -2,7 +2,7 @@
 
 - [김남원 (Namwon Kim)](./NamwonKim.md)
 - [김범수 (Buomsoo Kim)](./BuomsooKim.md)
-- [김영찬 (Yongchan Kim)](./YongchanKim.md)
+- [김용찬 (Yongchan Kim)](./YongchanKim.md)
 - [박향희 (Hyanghee Park)](./HyangheePark.md)
 - [서지혜 (Jihae Suh)](./JihaeSuh.md)
 - [이규한 (Kyuhan Lee)](./KyuhanLee.md)
