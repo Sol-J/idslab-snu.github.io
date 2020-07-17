@@ -18,6 +18,6 @@ E-mail: zizibi2012@gmail.com
 
 [back](README.md)
 
-[home](../../index.md)
-
 [members](../README.md)
+
+[home](../../index.md)
