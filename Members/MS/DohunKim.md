@@ -21,6 +21,6 @@
 
 [back](README.md)
 
-[home](../../index.md)
-
 [members](../README.md)
+
+[home](../../index.md)
