@@ -1,8 +1,9 @@
 # **Publications**
 ### **Book Chapters/Entries**
 ### __*International*__
-1. “Ontology,” in Management Information Systems, Vol. VII, Gordon B. Davis (ed.), The Blackwell Encyclopedia of Management, Second Edition, Cambridge, Massachusetts: Blackwell Publishing, 2005, pp. 233-236.
-2. “Semantic Web,” in Management Information Systems, Vol. VII, Gordon B. Davis (ed.), The Blackwell Encyclopedia of Management, Second Edition, Cambridge, Massachusetts: Blackwell Publishing, 2005, pp. 279-281.
+1. “A Novel Approach to Managing the Dynamic Nature of Semantic Relatedness,” (with Y. Choi, and J. Oh), in Natural Language Processing: Concepts, Methodologies, Tools, and Applications, Management Association, Information Resources (ed.), IGI Global, 2020, pp. 1085-1114. Reprint. http://doi:10.4018/978-1-7998-0951-7.
+2. “Ontology,” in Management Information Systems, Vol. VII, Gordon B. Davis (ed.), The Blackwell Encyclopedia of Management, Second Edition, Cambridge, Massachusetts: Blackwell Publishing, 2005, pp. 233-236.
+3. “Semantic Web,” in Management Information Systems, Vol. VII, Gordon B. Davis (ed.), The Blackwell Encyclopedia of Management, Second Edition, Cambridge, Massachusetts: Blackwell Publishing, 2005, pp. 279-281.
 
 ### **Books**
 ### __*Domestic (Korea)*__
