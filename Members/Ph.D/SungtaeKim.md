@@ -32,6 +32,6 @@ E-mail: withtea7@snu.ac.kr
 
 [back](README.md)
 
-[home](../../index.md)
-
 [members](../README.md)
+
+[home](../../index.md)
