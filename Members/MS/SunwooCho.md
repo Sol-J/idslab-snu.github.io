@@ -1,4 +1,4 @@
-![HanearlJung](/pic/members/SunwooChi.jpg)
+![SunwooCho](/pic/members/SunwooCho.jpg)
 
 ## **Address**
 1 Gwanak-ro, Gwanak-gu, Seoul 151-916, Korea. Business School, Seoul National University.
