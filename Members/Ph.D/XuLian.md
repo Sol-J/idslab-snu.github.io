@@ -1,4 +1,4 @@
-![XuLian](/pic/members/XuLian.jpg)
+![XuLian](/pic/members/XuLian.png)
 
 ## **Address**
 1 Gwanak-ro, Gwanak-gu, Seoul 151-916, Korea. Business School, Seoul National University.
