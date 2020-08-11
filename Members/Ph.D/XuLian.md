@@ -4,8 +4,8 @@
 1 Gwanak-ro, Gwanak-gu, Seoul 151-916, Korea. Business School, Seoul National University.
 
 ## **Contact**
-Telephone: 82-10-8389-6506
-E-mail: yeonwooklx@naver.com
+- Telephone: 82-10-8389-6506
+- E-mail: yeonwooklx@naver.com
 
 ## **Education**
 - Ph.D. candidate in Management Information Systems, College of Business Administration, Seoul National University, Seoul, Korea (2020~) 
