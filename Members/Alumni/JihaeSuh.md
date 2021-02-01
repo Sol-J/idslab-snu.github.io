@@ -1,7 +1,7 @@
 ![JihaeSuh](/pic/members/JihaeSuh.png)
 
 ## **Current Status**
-Researcher at Big Data Institute, Seoul National University.
+Assistant Professor at Seoul National University of Science and Technology.
 
 ## **Address**
 1 Gwanak-ro, Gwanak-gu, Seoul 151-916, Korea. Business School, Seoul National University.
@@ -13,9 +13,6 @@ Office: Urban Data Science Laboratory, 416, Gaepo-ro, Gangnam-gu, Seoul
 
 ## **Education**
 - Ph.D in College of Business Administration, Seoul National University, Seoul, Korea, 2011-2017, Management Information Systems
-- M.S. in Carnegie Mellon University, Pittsburgh, Pennsylvania, 2004-2006, Master of Information Systems Management
-- M.S. in Kyunghee University, Seoul, Korea, 2000-2002, Master of Science in Management Information System
-- B.A. in Kyunghee University, Seoul, Korea, 1996-2000, Bachelor of Arts in English Literature
 
 ## **Research Interests**
 - Data Modeling and Analysis
