@@ -7,9 +7,9 @@ Assistant Professor at Seoul National University of Science and Technology.
 1 Gwanak-ro, Gwanak-gu, Seoul 151-916, Korea. Business School, Seoul National University.
 
 ## **Contact**
-Telephone: 02-880-0794
-E-mail: jihaesuh77@gmail.com
-Office: Urban Data Science Laboratory, 416, Gaepo-ro, Gangnam-gu, Seoul
+- Telephone: 02-880-0794
+- E-mail: jihaesuh77@gmail.com
+- Office: Urban Data Science Laboratory, 416, Gaepo-ro, Gangnam-gu, Seoul
 
 ## **Education**
 - Ph.D in College of Business Administration, Seoul National University, Seoul, Korea, 2011-2017, Management Information Systems
