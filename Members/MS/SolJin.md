@@ -1,4 +1,4 @@
-![SolJin](/pic/members/SolJin.jpg)
+![SolJin](/pic/members/SolJin.jpeg)
 
 ## **Address**
 1 Gwanak-ro, Gwanak-gu, Seoul 151-916, Korea, Business School, Seoul National University.
