@@ -1,4 +1,4 @@
-![HyunhwaChang](/pic/members/HyunhwaChang.jpg)
+![HyunhwaChang](/pic/members/HyunhwaChang.jpeg)
 
 ## **Address**
 1 Gwanak-ro, Gwanak-gu, Seoul 151-916, Korea, Business School, Seoul National University.
