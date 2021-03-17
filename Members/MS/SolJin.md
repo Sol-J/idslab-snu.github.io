@@ -18,8 +18,6 @@
 ## **Publications**
 
 
-## **Publications**
-
 [back](README.md)
 
 [members](../README.md)
