@@ -8,7 +8,7 @@
 - E-mail: jinsol9770@snu.ac.kr
 
 ## **Education**
-- B.A. in Business Administration, Data Science (Dual Degree), University of Seoul, Seoul, Korea (2016-2020)
+- B.A. in Business Administration, Data Science (Double Degree), University of Seoul, Seoul, Korea (2016-2020)
 
 ## **Research Interest**
 - Natural Language Processing
