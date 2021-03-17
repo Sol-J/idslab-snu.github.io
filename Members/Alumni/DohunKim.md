@@ -8,6 +8,7 @@
 - E-mail: dounykim@snu.ac.kr
 
 ## **Education**
+- M.S. in MIS, Graduate School of Business, Seoul National University, Seoul, Korea, 2019
 - B.A. in Data Analytics, Kangwon National University, Chuncheon, Korea, 2015
 - B.A. in Business Administration, Kangwon National University, Chuncheon, Korea, 2015
 
