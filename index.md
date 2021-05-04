@@ -3,7 +3,7 @@
 # Welcome to Intelligent Data Semantics Lab!
 {: style="color:black; text-align: center;"}
 
-[Home|](index.md) [Research|](/Research/README.md) [Members|](/Members/README.md) [Publications](/Publications/README.md)
+[Home](index.md) [Research](/Research/README.md) [Publications](/Publications/README.md) [Members](/Members/README.md) 
 {: style="color:gray; text-align: center;"}
 
 ![Main2](/pic/home2.png)
