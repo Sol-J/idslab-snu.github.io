@@ -13,8 +13,8 @@
 
 ### __*Refereed Journal Articles and Conference Proceedings (International & Domestic)*__
 
-1. “Axiomatic Theories and Improving the Relevance of Information
-Systems Research,” (with J. Lee, S. Gregor, and V. Yoon), Information Systems Research, 2021, https://doi.org/10.1287/isre.2020.0958 
+1. “Axiomatic Theories and Improving the Relevance of Information Systems Research,” (with J.K. Lee,
+S. Gregor, V. Yoon), Information Systems Research, Vol. 32, No. 1, March 2021, pp. 147-171. (published online in Articles in Advance 01 Feb 2021, https://pubsonline.informs.org/doi/10.1287/isre.2020.0958)
 2. “Transparency and Accountability in AI Decision Support: Explaining and Visualizing Convolutional Neural Networks for Text Information,” (with B. Kim and J. Suh), Decision Support Systems, 2020, https://doi.org/10.1016/j.dss.2020.113302
 3. “A Lifestyle-Routine Activity Theory (LRAT) Approach to Cybercrime Victimization: An Empirical Assessment of SNS Lifestyle Exposure Activities,” (with J. Suh and J. Choe), Asia Pacific Journal of Information System, Vol. 30, No. 1, March 2020, pp. 53-71. 
 4. “A Study of Integrative Bargaining Model with Argumentation-Based Negotiation,” (with H. Rahman, J. Suh, and H. Hussin), Sustainability, Vol. 11, Issue 23, Article 6832, December-1, 2019, 21p.(doi:10.3390/su11236832) 
