@@ -7,10 +7,10 @@
 <div class="container"> 
   <div class="row"> 
     <div class="col-3"> 
-      <div class="card"> 
-        ![SolJin](/pic/members/SolJin.jpeg)
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5> 
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1563725911583-7d108f720483" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5> 
         </div> 
       </div> 
     </div> 
