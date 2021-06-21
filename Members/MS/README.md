@@ -1,16 +1,34 @@
-<div class="pull-left">
-<center><h4>진솔 (Sol Jin)</h4></center>
-<img src="https://github.com/idslab-snu/idslab-snu.github.io/blob/master/pic/members/SolJin.jpeg">
-<br>내용입력
-</div>
-  
-  
-<div class="pull-right">
-<center><h4>장현화 (Hyunhwa Chang)</h4></center>
-<img src="https://github.com/idslab-snu/idslab-snu.github.io/blob/master/pic/members/HyunhwaChang.jpeg">
-<br>내용입력
-</div>
+# **현 석사과정 (Master’s Students)**  
 
+<img src = "/pic/members/HyunhwaChang.jpeg" width="200px">
+
+### **장현화 (Hyunhwa Chang)**
+텍스트입력
+[More](./HyunhwaChang.md)
+
+
+
+<img src = "/pic/members/HanearlJung.jpeg" width="200px">
+
+### **정한얼 (Hanearl Jung)**
+텍스트입력
+[More](./HanearlJung.md)
+
+
+
+<img src = "/pic/members/SunwooCho.jpg" width="200px">
+
+### **조선우 (Sunwoo Cho)**
+텍스트입력
+[More](./SunwooCho.md)
+
+
+
+<img src = "/pic/members/SolJin.jpeg" width="200px">
+
+### **진솔 (Sol Jin)**
+텍스트입력
+[More](./SolJin.md)
 
   
 [back](../)
