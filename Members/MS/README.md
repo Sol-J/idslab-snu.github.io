@@ -1,33 +1,18 @@
-# **현 석사과정 (Master’s Students)**  
-- [장현화 (Hyunhwa Chang)](./HyunhwaChang.md)
-- [정한얼 (Hanearl Jung)](./HanearlJung.md)
-- [조선우 (Sunwoo Cho)](./SunwooCho.md)
-- [진솔 (Sol Jin)](./SolJin.md)
-
-<body>
-  <div class="container"> 
-    <div class="row"> 
-      <div class="col-3"> 
-        <div class="card" style="width: 18rem;">
-          <img src="https://github.com/idslab-snu/idslab-snu.github.io/blob/master/pic/members/HyunhwaChang.jpeg" class="card-img-top" alt="...">
-            <div class="card-body">
-             <h5 class="card-title">Card title</h5> 
-          </div> 
-        </div> 
-      </div> 
-      <div class="col-3">
-        <div class="card" style="width: 18rem;">
-          <img src="https://github.com/idslab-snu/idslab-snu.github.io/blob/master/pic/members/SolJin.jpeg" class="card-img-top" alt="...">
-            <div class="card-body">
-               <h5 class="card-title">[진솔 (Sol Jin)](./SolJin.md)</h5> 
-          </div> 
-       </div> 
-    </div> 
-  </div>
-
-</body>
+<div class="pull-left">
+<center><h4>진솔 (Sol Jin)</h4></center>
+<img src="https://github.com/idslab-snu/idslab-snu.github.io/blob/master/pic/members/SolJin.jpeg">
+<br>내용입력
+</div>
+  
+  
+<div class="pull-right">
+<center><h4>장현화 (Hyunhwa Chang)</h4></center>
+<img src="https://github.com/idslab-snu/idslab-snu.github.io/blob/master/pic/members/HyunhwaChang.jpeg">
+<br>내용입력
+</div>
 
 
+  
 [back](../)
 
 [home](../../index.md)
