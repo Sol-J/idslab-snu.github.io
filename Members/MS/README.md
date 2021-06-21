@@ -8,6 +8,28 @@
   <div class="row"> 
     <div class="col-3"> 
       <div class="card" style="width: 18rem;">
+        <img src="https://github.com/idslab-snu/idslab-snu.github.io/blob/master/pic/members/HyunhwaChang.jpeg" class="card-img-top" alt="...">
+          <div class="card-body">
+           <h5 class="card-title">Card title</h5> 
+        </div> 
+      </div> 
+    </div> 
+    <div class="col-3"></div> 
+    <div class="col-3"></div> 
+    <div class="col-3"></div> 
+  </div> 
+  <div class="row"> 
+    <div class="col-3"></div> 
+    <div class="col-3"></div> 
+    <div class="col-3"></div> 
+    <div class="col-3"></div> 
+  </div> 
+</div>
+
+<div class="container"> 
+  <div class="row"> 
+    <div class="col-3"> 
+      <div class="card" style="width: 18rem;">
         <img src="https://github.com/idslab-snu/idslab-snu.github.io/blob/master/pic/members/SolJin.jpeg" class="card-img-top" alt="...">
           <div class="card-body">
            <h5 class="card-title">Card title</h5> 
