@@ -8,7 +8,7 @@
   <div class="row"> 
     <div class="col-3"> 
       <div class="card">
-        <img src="https://images.unsplash.com/photo-1563725911583-7d108f720483" class="card-img-top" alt="...">
+        <img src="https://github.com/idslab-snu/idslab-snu.github.io/blob/master/pic/members/SolJin.jpeg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Card title</h5> 
         </div> 
