@@ -19,7 +19,7 @@
         <div class="card" style="width: 18rem;">
           <img src="https://github.com/idslab-snu/idslab-snu.github.io/blob/master/pic/members/SolJin.jpeg" class="card-img-top" alt="...">
             <div class="card-body">
-               <h5 class="card-title">Card title</h5> 
+               <h5 class="card-title">[진솔 (Sol Jin)](./SolJin.md)</h5> 
           </div> 
        </div> 
     </div> 
